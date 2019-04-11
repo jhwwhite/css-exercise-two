@@ -80,3 +80,7 @@ article {
   margin: 0 auto;
   width: 50%;
 }
+
+p {
+  margin-bottom: 15px;
+}
